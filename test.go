@@ -30,6 +30,7 @@ func getTest(x int) int {
 	return 2018 - x
 }
 
+// main
 func main() {
 	orang := Person{nama: "dian", tahun: 40}
 	fmt.Println(orang.nama)

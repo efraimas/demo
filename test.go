@@ -10,7 +10,7 @@ const (
 	no = false
 )
 
-// Person
+// Person person
 type Person struct {
 	nama  string
 	tahun int

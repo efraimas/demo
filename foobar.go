@@ -34,7 +34,5 @@ func main() {
 	fmt.Println(os.Args[1])
 	x := []int{48, 96, 86, 68, 57, 34, 83, 27, 19, 97, 3, 9, 17}
 	fmt.Println(test(x))
-	n, e := os.Hostname()
-	fmt.Println(n)
-	//fmt.Println(e)
+
 }
